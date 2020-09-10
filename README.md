@@ -1,9 +1,9 @@
 ### Hello World!
 
-- 🔭 I’m currently working on Smart Contract Development
-- 🌱 I’m currently learning Solidity
-- 👯 I’m looking to collaborate on dApps
-- 🤔 I’m looking for help with understanding nuances of various blockchain networks
+- 🔭 I’m currently working on an online Full Stack Web Development course
+- 🌱 I’m currently learning MERN Stack basics
+- 👯 I’m looking to collaborate on anything macroeconomic related
+- 🤔 I’m looking for help with Web Dev tips and tricks 
 - 💬 Ask me about Anything
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/evanpaliotta/)
 - 😄 Pronouns: he/him
