@@ -1,9 +1,9 @@
 ### Hello World!
 
-- 🔭 I’m currently working on enterprise use cases of blockchain applications 
-- 🌱 I’m currently learning blockchain use cases
-- 👯 I’m looking to collaborate on building decentralized applications
-- 🤔 I’m looking for help with bringing Dapps to fruition
+- 🔭 I’m currently working on enterprise use cases of Artificial Intelligence 
+- 🌱 I’m currently learning AI use cases
+- 👯 I’m looking to collaborate on how to benefit the financial services industry using AI
+- 🤔 I’m looking for help with natural language processing models
 - 💬 Ask me anything
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/evanpaliotta/)
 - ⚡ Fun fact: Traveled to 33 countries and lived on an organic farm in Hawaii
