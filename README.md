@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm passionate about leveraging Artificial Intelligence to
 - 🤔 Seeking help with: Vibe Coding tips & tricks
 - 💬 Ask me about: AI, financial technology, or my global adventures!
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/evanpaliotta/)
-⚡ Fun fact: I've traveled to 35 countries and lived on an organic farm in Hawaii 🌴.
+- ⚡ Fun fact: I've traveled to 35 countries and lived on an organic farm in Hawaii 🌴.
 
 🛠️ Skills & Tools
 - Languages: Python, JavaScript, SQL
